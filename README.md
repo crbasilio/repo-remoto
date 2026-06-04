@@ -1,2 +1,2 @@
 # repo-remoto
-repositorio remoto dio - antes do clone
+repositorio remoto depois do clone dio - depois do clone
